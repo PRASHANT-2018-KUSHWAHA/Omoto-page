@@ -1,0 +1,180 @@
+.Oval-17-Oval-17-Copy-7 {
+
+  width: 211px;
+
+  height: 50px;
+
+  object-fit: contain;
+
+}
+.RightCornerShape{
+	  width: 34.7px;
+
+  height: 30.4px;
+} 
+.RightCornerDiv{
+	margin-left: 930px;
+}
+
+/*div class for campaign results*/
+
+.Campaign-Results-for {
+
+ 
+
+  font-family: HelveticaNeue;
+
+  font-size: 28px;
+
+  font-weight: normal;
+
+  font-style: normal;
+
+  font-stretch: normal;
+
+  line-height: normal;
+
+  letter-spacing: normal;
+
+  color: #37bfc9;
+
+  color: var(--tealish);
+
+}
+
+ .text3{
+	 width: 857px;
+
+     height: 34px;
+
+     margin-left: 50px;
+}
+
+
+.centerDiv{
+   float: left;
+   width: 1290px;
+   display: flex;
+}
+.Div{
+	width:300px;
+	height: 320px;
+	margin: 20px;
+	
+
+
+}
+#Div1{
+	float: left;
+	margin-top: 0px;
+}
+
+/*div 1 parameters*/
+.Recipient-List-Manag {
+  width: 250px;
+  height: 23px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #9c9c9c;
+}
+
+/*div 2 parameters*/
+/*left arro*/
+.Shape {
+  width: 19.3px;
+  height: 12px;
+  
+}
+.Non-respondents-Over {
+  width: 223px;
+  height: 22px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4a4a4a;
+  margin-top: 25px; 
+}
+
+/*div 3 parameters*/
+
+.Summary-respondents {
+  width: 245px;
+  height: 22px;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a4a4a;
+  margin-top: 25px;
+
+}
+
+.innerDiv{
+	float: left;
+	width: 350px;
+	height: 32px;
+    margin-top: 25px;
+    display: flex;
+
+}
+.persentage{
+	position: relative;
+	width: 5px;
+	height: 32px;
+	border-radius: 5px;
+	background-color: red;
+	left: 0px;
+	
+}
+.item{
+     position: 
+     width: 101px;
+     height: 32px;
+     margin-left: 10px; 
+     background-color: orange;
+    
+}
+#Div3{
+   width: 400px;
+}
+
+/*table layout*/
+.table{
+	width: 1119.5px;
+	
+	position: absolute;
+	left:80px;
+	top: 600px;
+	margin-bottom: 227px;
+	border:solid 1px;
+    
+}
+.table-condensed thead{
+    background-color:#35404f;
+    margin-bottom: 100px;
+    text-align: center;
+
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+thead tr{
+	height: 38px;
+}
+
+.End{
+	height: 227px;
+}
